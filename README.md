@@ -1,6 +1,8 @@
 #Animate.css
 *Just-add-water CSS animation*
 
+Custom Fork for [Comparnion](https://comparnion.com)
+
 `animate.css` is a bunch of cool, fun, and cross-browser animations for you to use in your projects. Great for emphasis, home pages, sliders, and general just-add-water-awesomeness.
 
 ##Basic Usage
